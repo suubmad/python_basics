@@ -1,4 +1,5 @@
 # python_basics_exercises
+# Learning by doing python basics
 ## I did exercises to remember python basics
 ## The topics in are in the table
 
