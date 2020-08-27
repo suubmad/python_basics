@@ -2,13 +2,14 @@
 """
 Python basics 
 
-I wrote these to remind myself
+Learning by doing python basics
 
 @author: suubmad Berkay SEN
 """
+## %%  divide as a part
 
 #%% 
-# variables(degiskenler) 
+# variables
 
 var = 20
 print(var)
@@ -20,12 +21,13 @@ print(var+var1)
 var_str = 'Hello, World'
 print(var_str)
 
-#%%
+#%% 
+
 # string
 
 var_word = 'Space'
 print(var_word)
-var_type = type(var_word)
+var_type = type(var_word) # type() function returns its type
 print(var_type)
 
 long_word = "fibonacci sequence"
